@@ -9,4 +9,7 @@ Simple calculator using hindi text
 Sample -
 	
 	4 जोड़ 5
-	7
+   	7
+	
+	3 गुणा4
+	12	
